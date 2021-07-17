@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Employee Manager</string>
+    <string name="company_name">Employee Star Pvt. Ltd.</string>
+
+    <string name="save_employee">Save</string>
+    <string name="delete_employee">Delete</string>
+    <string name="enter_employee_name">Enter employee name</string>
+    <string name="employee_photo">Employee Photo</string>
+    <string name="gender">Gender</string>
+    <string name="role">Role</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="age">Age</string>
+
+    <string name="export_data">Export employee data</string>
+    <string name="import_data">Import employee data</string>
+
+    <string name="years">%1$d years</string>
+    <string name="no_app_csv">No app to read CSV file</string>
+    <string name="latest_employee_name">Latest employee name</string>
+    <string name="latest_employee">The name of latest employee is: %1$s</string>
+    <string name="no_employee_added">No employee added yet</string>
+    <string name="share_employee_data">Share Employee data</string>
+    <string name="share_text">Employee Data\nName: %1$s\nRole: %2$s\nAge: %3$d\nGender: %4$s</string>
+    <string name="create_file_error">Error occurred creating file: %1$s</string>
+
+    <string name="share_data_title">Choose the app to send data</string>
+    <string name="email">Email</string>
+    <string name="responsibilities">Responsibilities</string>
+    <string name="experience">Experience</string>
+    <string name="education">Education</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="take_photo_from_camera">Take photo from camera</string>
+    <string name="pick_photo_from_gallery">Pick photo from gallery</string>
+
+    <string name="employee_validate_error_message">Please enter the %1$s of employee</string>
+
+    <string name="no_db_record">There are no employees to show.\n
+        Please add an employee by clicking the bottom right button</string>
+    <string name="edit_employee">Edit Employee</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new_employee">Add New Employee</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+
+    <string name="about_us_content">This AICTE approved Institute under GGSIP University is ideally located in the Institutional area of  Janakpuri, New Delhi. It has a campus spread over eight acres of land with beautiful eco-friendly surroundings. Institute was earlier operating from four storey building of 6279 sq.m of built up area. Recently it has been shifted to a more spacious seven storeyed building with built up area of 9660 sq.m The institute has over a short span of time acquired and developed impressive infrastructure, expertise and resources for imparting high quality engineering education. The institute runs in two shifts - First/Morning shift and Second/Evening shift providing Bachelor of Technology in CSE, IT, ECE and EEE streams\n
+        \nTeaching Methodology\n
+        \nThe institute has a well qualified and experienced faculty. The most contemporary teaching methodology at MSIT provides ample opportunity for students to develop into all round professionals by keeping abreast of the ever changing technologies. The Institute aims to achieve and excel the high standards set by premiere technical institutions of the country. The traditional classroom teaching is supplemented by regular tests, tutorials, group discussions, extensive lab work, projects, seminars and industrial exposure by way of industry visits and summer training. Eminent academicians and professionals are invited as visting faculty to teach and guide specific courses. While teaching engineering fundamentals, keeping pace with the evolving definitions and concepts, a sincere effort is also made to cover the latest in each subject area.The classroom atmosphere is synergetic with interactive and participative sessions. This makes learning proactive and instills in the students a sense of team spirit, responsibility and professional integrity. It helps in building a healthy student-faculty bond, which develops students to their fullest potential and harnesses the best in the teachers. \n
+        \nInfrastructure \n
+        \nThe infrastructure consists of well lit lecture halls, fully furnished labs, seminar halls, staff rooms, a large size play ground etc. For the fresh students there are well equipped labs for ‘Applied Sciences’, ‘Applied Mechanics’ and ‘Electrical Engg. Lab’ in addition to a well established ‘Workshop’ and a well lit ‘Drawing Hall’. The six modern air-conditioned networked computers labs cover entire range of Computer Science and IT subjects like Software Engg., Network Technology, Mobile Computing, Artificial Intelligence and Robotics, Computer Graphics, Compiler Construction, Analysis and Design of Algorithms, Interface Programming, Data Structure, DBMS and Object Oriented Programming. All labs have licensed software such as Visual Studio, .Net 2003, Auto Cad 2004, MS Office Professional 2003, Oracle 9i, TASM, Orcad, Windows XP. The software is updated and upgraded frequently as per the requirements and demands of the training. High speed, around–the–clock internet access using a radio link is also available. Students are offered real software projects relating to the current industry requirments to facilitate smooth transition from academics to industrial environment. The Electronics and Comm. Engg. Department has eight modern laboratories covering all the important subjects eg. Analog Electronics Lab, Control Engg. Lab, Microwave Devices lab, Digital Image Processing Lab,Consumer Electronics Lab, Digital Circuits and Systems Lab and Microprocessors lab. Recently a VLSI Design Lab and a Satellite and Mobile Comm. Lab have been also added. Adequate licenced MATLAB tool boxes,Tanner tools as well as the kits of IPGA/CPLD microprocessors and advanced microprocessors are available to give the students clear insight into design and development processes. Faculty is supported by a well trained technical staff. A full backup power supply is available for the campus round the clock.
+
+ </string>
+
+    <string name="postal_address">
+        Gate No. 2, Maharaja Surajmal Institute Of Technology,\n
+        C4 - Janakpuri,\n
+        West Delhi, New Delhi - 110058\n
+        India
+    </string>
+    <string name="website">Website:</string>
+    <string name="website_address">www.msit.in</string>
+    <string name="phone_number">+91-1234567890</string>
+</resources>
